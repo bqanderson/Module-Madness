@@ -1,5 +1,5 @@
 module.exports = {
-  randomNum : randomAmount(100, 1000000)
+  randomNum : randomAmount
 }
 
 function randomAmount(min, max) {
